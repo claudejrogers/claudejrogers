@@ -50,8 +50,10 @@
   detection of glycosaminoglycan-protein interactions. Methods Mol. Biol.,
   808, 321–336. http://dx.doi.org/10.1007/978-1-61779-373-8\_22
 - Brown, J. M., Xia, J., Zhuang, B., Cho, K., Rogers, C. J., Gama, C. I., Rawat,
-  M., … (2012). A sulfated carbohydrate epitope inhibits axon regeneration after
-  injury. Proc. Natl. Acad. Sci. U.S.A., 109(13), 4768–4773.
+  M., Tully, S. E., Uetani, N., Mason, D. E., Tremblay, M. L., Peters, E. C.,
+  Habuchi, O., Chen, D. F., & Hsieh-Wilson, L. C. (2012). A sulfated
+  carbohydrate epitope inhibits axon regeneration after injury. Proc. Natl.
+  Acad. Sci. U.S.A., 109(13), 4768–4773.
   http://dx.doi.org/10.1073/pnas.1121318109
 - Rogers, C. J., Clark, P. M., Tully, S. E., Abrol, R., Garcia, K. C., Goddard,
   W. A. 3., & Hsieh-Wilson, L. C. (2011). Elucidating
