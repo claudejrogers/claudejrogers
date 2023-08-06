@@ -9,6 +9,17 @@
 - Python, R, and C
 
 ## Publications
+- Hamade, D. F., Epperly, M. W., Fisher, R., Hou, W., Shields, D., 
+  van Pijkeren, J.-P., Mukherjee, A., Yu, J., Leibowitz, B. J., Vlad, A. M.,
+  Coffman, L., Wang, H., Huq, M. S., Huang, Z., Rogers, C. J., Greenberger, J.
+  S. (2023) Release of interferon-β (IFN-β) from probiotic Limosilactobacillus
+  reuteri-IFN-β (LR-IFN-β) mitigates gastrointestinal acute radiation syndrome
+  (GI-ARS) following whole abdominal irradiation. Cancers, 15, 1670.
+  https://doi.org/10.3390/cancers15061670
+- Brehove M., Rogers C. J., Menon R., Minor P., Allington J., Lam A.,
+  Vielmetter J., Menon N. (2023) Cell monitoring with optical coherence
+  tomography. Cytotherapy, 25(2), 120-124.
+  http://dx.doi.org/10.1016/j.jcyt.2022.09.008
 - Whitener, R., Henchir, J. J., Miller, T. A., Levy, E., Krysiewicz-Bell, A.,
   Abrams, E. S. L., Carlson, S. W., Menon, N., Dixon, C. E., Whalen, M. J., &
   Rogers, C. J. (2022). Localization of multi-lamellar vesicle nanoparticles to
