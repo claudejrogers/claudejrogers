@@ -9,6 +9,10 @@
 - Python, R, and C
 
 ## Publications
+- Gao, L., Kyubwa, E.M., Starbird, M.A., Diaz de Leon, J., Nguyen, M., Rogers,
+  C. J., Menon, N. Circulating miRNA profiles in COVID-19 patients and
+  meta-analysis: implications for disease progression and prognosis.
+  Sci. Rep. 13, 21656 (2023). https://doi.org/10.1038/s41598-023-48227-w
 - Hamade, D. F., Epperly, M. W., Fisher, R., Hou, W., Shields, D., 
   van Pijkeren, J.-P., Mukherjee, A., Yu, J., Leibowitz, B. J., Vlad, A. M.,
   Coffman, L., Wang, H., Huq, M. S., Huang, Z., Rogers, C. J., Greenberger, J.
