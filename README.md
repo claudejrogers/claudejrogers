@@ -9,6 +9,13 @@
 - Python, R, and C
 
 ## Publications
+- Hamade, D. F., Epperly, M. W., Fisher, R., Hou W., Shields, D., van Pijkeren,
+  J.-P., Leibowitz, B.-J., Coffman, L. G., Wang, H., Huq M. S., Huang, Z.,
+  Rogers, C. J., Vlad, A. M., Greenberger, J. S., Mukherjee, A. (2024).
+  Genetically engineered probiotic Limosilactobacillus reuteri releasing IL-22
+  (LR-IL-22) modifies the tumor microenvironment, enabling irradiation in
+  ovarian cancer. Cancers, 16, 3, 474.
+  https://doi.org/10.3390/cancers16030474
 - Gao, L., Kyubwa, E.M., Starbird, M.A., Diaz de Leon, J., Nguyen, M., Rogers,
   C. J., Menon, N. Circulating miRNA profiles in COVID-19 patients and
   meta-analysis: implications for disease progression and prognosis.
