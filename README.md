@@ -11,18 +11,18 @@
 ## Publications
 - Hamade, D. F., Epperly, M. W., Fisher, R., Hou W., Shields, D., van Pijkeren,
   J.-P., Leibowitz, B.-J., Coffman, L. G., Wang, H., Huq M. S., Huang, Z.,
-  Rogers, C. J., Vlad, A. M., Greenberger, J. S., Mukherjee, A. (2024).
+  Rogers, C. J., Vlad, A. M., Greenberger, J. S., & Mukherjee, A. (2024).
   Genetically engineered probiotic Limosilactobacillus reuteri releasing IL-22
   (LR-IL-22) modifies the tumor microenvironment, enabling irradiation in
   ovarian cancer. Cancers, 16, 3, 474.
   https://doi.org/10.3390/cancers16030474
 - Gao, L., Kyubwa, E.M., Starbird, M.A., Diaz de Leon, J., Nguyen, M., Rogers,
-  C. J., Menon, N. Circulating miRNA profiles in COVID-19 patients and
+  C. J., & Menon, N. (2023). Circulating miRNA profiles in COVID-19 patients and
   meta-analysis: implications for disease progression and prognosis.
-  Sci. Rep. 13, 21656 (2023). https://doi.org/10.1038/s41598-023-48227-w
+  Sci. Rep. 13, 21656. https://doi.org/10.1038/s41598-023-48227-w
 - Hamade, D. F., Epperly, M. W., Fisher, R., Hou, W., Shields, D., 
   van Pijkeren, J.-P., Mukherjee, A., Yu, J., Leibowitz, B. J., Vlad, A. M.,
-  Coffman, L., Wang, H., Huq, M. S., Huang, Z., Rogers, C. J., Greenberger, J.
+  Coffman, L., Wang, H., Huq, M. S., Huang, Z., Rogers, C. J., & Greenberger, J.
   S. (2023). Release of interferon-β (IFN-β) from probiotic Limosilactobacillus
   reuteri-IFN-β (LR-IFN-β) mitigates gastrointestinal acute radiation syndrome
   (GI-ARS) following whole abdominal irradiation. Cancers, 15, 1670.
@@ -41,7 +41,7 @@
   Song, J. H., Sun, X., Cai, H., Moreno-Vinasco, L., Gregory, T., Oita, R. C.,
   Hernon, V. R., Camp, S. M., Rogers, C. J., Kyubwa, E. K., Menon, N., Axtelle,
   J., Rappaport, J., Bime, C., Sammani, S., Cress, A. E., & Garcia, J. G. N.
-  (2022). ENAMPT is a novel damage-associated molecular pattern protein that
+  (2022). eNAMPT is a novel damage-associated molecular pattern protein that
   contributes to the severity of radiation-induced lung fibrosis. Am. J. Respir.
   Cell Mol. Biol., 66(5), 497–509. http://dx.doi.org/10.1165/rcmb.2021-0357OC
 - Rogers, C. J., Kyubwa, E. M., Lukaszewicz, A. I., Starbird, M. A., Nguyen, M.,
@@ -94,6 +94,10 @@
   Janda, K. D. (2007). Identification and characterization of single chain
   anti-cocaine catalytic antibodies. J. Mol. Biol., 365(3), 722–731.
   http://dx.doi.org/10.1016/j.jmb.2006.10.031
+- Zhu, X., Dickerson, T. J., Rogers, C. J., Kaufmann, G. F., Mee, J. M.,
+  McKenzie, K. M., Janda K. M., & Wilson, I. A. (2006). Complete reaction
+  cycle of a cocaine antibody at atomic resolution. Structure, 14(2), 205-216.
+  https://doi.org/10.1016/j.str.2005.10.014
 - Rogers, C. J., Dickerson, T. J., & Janda, K. D. (2006). Kinetic isotope and
   thermodynamic analysis of the nornicotine-catalyzed aqueous aldol reaction.
   Tetrahedron, 62(2-3), 352–356. http://dx.doi.org/10.1016/j.tet.2005.09.094
