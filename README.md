@@ -9,10 +9,16 @@
 - Python, R, and C
 
 ## Publications
+- Alexander, L. M. , Khalid, S., Gallego-Lopez, G. M., Astmann, T. J., Oh,
+  J.-H., Heggen, M., Huss, P., Fisher, R., Mukherjee, A., Raman, S., Choi, I.
+  Y., Smith, M. N. , Rogers, C. J., Epperly, M. W., Knoll, L. J., Greenberger,
+  J. S., & van Pijkeren J.-P. (2024). Development of a _Limosilactobacillus
+  reuteri_ therapeutic delivery platform with reduced colonization potential.
+  Appl Environ Microbiol. 90, 11, e0031224. https://doi.org/10.1128/aem.00312-24
 - Hamade, D. F., Epperly, M. W., Fisher, R., Hou W., Shields, D., van Pijkeren,
   J.-P., Leibowitz, B.-J., Coffman, L. G., Wang, H., Huq M. S., Huang, Z.,
   Rogers, C. J., Vlad, A. M., Greenberger, J. S., & Mukherjee, A. (2024).
-  Genetically engineered probiotic Limosilactobacillus reuteri releasing IL-22
+  Genetically engineered probiotic _Limosilactobacillus reuteri_ releasing IL-22
   (LR-IL-22) modifies the tumor microenvironment, enabling irradiation in
   ovarian cancer. Cancers, 16, 3, 474.
   https://doi.org/10.3390/cancers16030474
@@ -23,8 +29,8 @@
 - Hamade, D. F., Epperly, M. W., Fisher, R., Hou, W., Shields, D., 
   van Pijkeren, J.-P., Mukherjee, A., Yu, J., Leibowitz, B. J., Vlad, A. M.,
   Coffman, L., Wang, H., Huq, M. S., Huang, Z., Rogers, C. J., & Greenberger, J.
-  S. (2023). Release of interferon-β (IFN-β) from probiotic Limosilactobacillus
-  reuteri-IFN-β (LR-IFN-β) mitigates gastrointestinal acute radiation syndrome
+  S. (2023). Release of interferon-β (IFN-β) from probiotic _Limosilactobacillus 
+  reuteri_-IFN-β (LR-IFN-β) mitigates gastrointestinal acute radiation syndrome
   (GI-ARS) following whole abdominal irradiation. Cancers, 15, 1670.
   https://doi.org/10.3390/cancers15061670
 - Brehove M., Rogers C. J., Menon R., Minor P., Allington J., Lam A.,
